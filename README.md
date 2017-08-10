@@ -1,5 +1,5 @@
 # Ark-Failed-Mod-Map-Fix
-A quick application, written in C#, that fixes the "Failed to install mod map" error on Ark: Survival Evolved.
+A quick application, written in C#, that helps you fix the "Failed to install mod map" error on Ark: Survival Evolved.
 Download available on the Release page.
 
 
